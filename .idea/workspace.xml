@@ -66,6 +66,7 @@
       <list>
         <item itemvalue="Python.bot" />
         <item itemvalue="Python.bot" />
+        <item itemvalue="Python.bot" />
       </list>
     </recent_temporary>
   </component>
@@ -79,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595466156797</updated>
-      <workItem from="1595466162853" duration="301000" />
+      <workItem from="1595466162853" duration="614000" />
     </task>
     <servers />
   </component>
@@ -101,5 +102,6 @@
     <SUITE FILE_PATH="coverage/simple_chatty_bot$Simple_Chatty_Bot_How_old_are_you.coverage" NAME="Simple Chatty Bot/How old are you Coverage Results" MODIFIED="1595466648193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/simple_chatty_bot$Simple_Chatty_Bot_What_s_my_name.coverage" NAME="Simple Chatty Bot/What's my name Coverage Results" MODIFIED="1595466459337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/simple_chatty_bot$Simple_Chatty_Bot_Hello__Whats_your_name.coverage" NAME="Simple Chatty Bot/Hello! What’s your name Coverage Results" MODIFIED="1595466351258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/simple_chatty_bot$Simple_Chatty_Bot_Lets_count_.coverage" NAME="Simple Chatty Bot/Let’s count! Coverage Results" MODIFIED="1595466892126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
