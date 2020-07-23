@@ -12,7 +12,7 @@ You’ll get to know the basic syntax of Python and write a simple program using
 
 ###  This project is a part of the following track
 
-[Python Developer](https://hyperskill.org/tracks/2]
+[Python Developer](https://hyperskill.org/tracks/2)
 
 
 ### URL
